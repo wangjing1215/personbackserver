@@ -1,0 +1,3 @@
+Django
+mysql-python
+pillow==2.8.1
